@@ -1,4 +1,4 @@
-﻿namespace Lab1.Services
+﻿namespace Lab1.Services.lab2
 {
     public class Calculate
     {

@@ -1,7 +1,7 @@
-using Lab1.Services;
+using Lab1.Services.lab2;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Lab1.Controllers
+namespace Lab1.Controllers.lab2
 {
     [ApiController]
     [Route("[controller]/[action]")]
