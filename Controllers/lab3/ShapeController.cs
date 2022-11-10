@@ -1,6 +1,7 @@
 ﻿using Lab1.Services.lab3;
 using Microsoft.AspNetCore.Mvc;
 
+//pc
 namespace Lab1.Services.lab3
 {
     [ApiController]
